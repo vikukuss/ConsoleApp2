@@ -6,6 +6,16 @@ class Program
         Console.WriteLine("хаха");
         Console.WriteLine("хихи");
 
+        Console.WriteLine("хаха");
+        Console.WriteLine("хихи");
+        Console.WriteLine("хаха");
+        Console.WriteLine("хихи");
+        Console.WriteLine("хаха");
+        Console.WriteLine("хихи");
+        Console.WriteLine("хаха");
+        Console.WriteLine("хихи");
+
+
         Console.WriteLine("хохо");
         Console.WriteLine("хуху");
 
